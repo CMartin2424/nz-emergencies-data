@@ -1,0 +1,22 @@
+[
+  {
+    "id": "TEST-FIRE",
+    "type": "FIRE",
+    "address": "Foxton Fire Station",
+    "lat": -40.46432,
+    "lon": 175.28295,
+    "station": "Foxton",
+    "details": "Test Fire Call",
+    "timestamp": "2025-12-06T12:00:00Z"
+  },
+  {
+    "id": "TEST-AMBO",
+    "type": "AMBO",
+    "address": "St John Ambulance Foxton",
+    "lat": -40.46735,
+    "lon": 175.28702,
+    "station": "Foxton",
+    "details": "Test Ambulance Call",
+    "timestamp": "2025-12-06T12:05:00Z"
+  }
+]
